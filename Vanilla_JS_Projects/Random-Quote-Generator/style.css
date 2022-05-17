@@ -1,0 +1,29 @@
+#container {
+    background-color: lightblue;
+    border: 5px solid black;
+    height: 300px;
+    width: 725px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    background-color: darkblue;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+p {
+    font-size: 25px;
+}
+
+span {
+    font-size: 25px;
+}

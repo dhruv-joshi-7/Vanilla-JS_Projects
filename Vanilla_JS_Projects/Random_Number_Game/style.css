@@ -1,0 +1,26 @@
+body {
+    background-color: darkcyan;
+}
+
+#guess {
+    background-color: chocolate;
+    border: 5px solid #f5e4c3;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 24px;
+}
+
+#number {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
